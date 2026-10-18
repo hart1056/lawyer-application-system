@@ -14,6 +14,9 @@ function e($value) {
     return htmlspecialchars((string)($value ?? ""), ENT_QUOTES, "UTF-8");
 }
 ?>
+
+// i love designing so i decided to design it with purple themed:>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
